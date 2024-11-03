@@ -72,7 +72,7 @@ Siempre estoy en búsqueda de **nuevas ideas** y sugerencias. Si tienes alguna r
 
 Estoy constantemente trabajando en nuevos proyectos y explorando diferentes ideas. Aquí dejo un espacio para los que aún estoy desarrollando:
 
-- CRUD para gestión de proveedores y facturas relacionadas en Django.
+- CRUD para gestión de proveedores y facturas relacionadas en Django.**GitHub**: [JS](https://github.com/JanSua/JS)
 
 ---
 
